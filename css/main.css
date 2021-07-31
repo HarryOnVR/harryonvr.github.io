@@ -40,6 +40,9 @@ body {
 .btn-secondary {
     background-color: #2C2F33 !important
 }
+.btn-third {
+    background-color: #f96854 !important
+}
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
