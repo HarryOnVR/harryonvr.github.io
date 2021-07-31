@@ -124,12 +124,12 @@ body {
 }
 
 .start .card {
-    background: rgba(255, 255, 255, 0.83) !important;
-    color: #353e4c !important;
+    background: #23272a !important;
+    color: #ffffff !important;
 }
 
 .start .card .subtitle {
-    color: rgba(53, 62, 76, 0.6) !important;
+    color: #ffffff !important;
     font-size: 16px !important;
 }
 
